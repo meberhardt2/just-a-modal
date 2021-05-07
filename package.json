@@ -1,0 +1,11 @@
+{
+  "name": "just-a-modal",
+  "version": "1.0.21",
+  "private": false,
+  "description": "just a modal. simple modal with no dependencies for confirmation and info modals",
+  "main": "src/just-a-modal.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meberhardt2/just-a-modal.git"
+  }
+}
