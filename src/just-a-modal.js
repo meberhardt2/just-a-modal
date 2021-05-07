@@ -1,6 +1,6 @@
 import React, { Fragment, useState, useEffect } from 'react';
 
-import 'just-a-modal/just-a-modal.css';
+import './just-a-modal.css';
 
 /**************************************************************************************/
 function Modal(props){
