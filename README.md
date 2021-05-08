@@ -5,7 +5,7 @@ added to your project with this.
 
 * zero dependencies
 * overlay automatically added to dim the background
-* small
+* small, currently around 16KB
 * easy to get started with and use
 
 ## Installation
