@@ -15,6 +15,7 @@ npm install --save just-a-modal
 
 ## Usage
 ```jsx
+import React, { useState } from 'react';
 import JustAModal from 'just-a-modal';
 
 const [modalInfo, setModalInfo] = useState({
