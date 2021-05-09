@@ -1,6 +1,6 @@
 {
   "name": "just-a-modal",
-  "version": "1.0.24",
+  "version": "1.0.25",
   "private": false,
   "description": "just a modal. simple modal with no dependencies for confirmation and info modals",
   "main": "dist/just-a-modal.js",
@@ -22,6 +22,10 @@
   "homepage": "https://github.com/meberhardt2/just-a-modal#readme",
   "scripts": {
     "build": "webpack"
+  },
+  "peerDependencies": {
+    "react": ">=16",
+    "react-dom": ">=16"
   },
   "devDependencies": {
     "babel-core": "^6.21.0",
