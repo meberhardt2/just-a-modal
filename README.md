@@ -92,3 +92,5 @@ config:{
     buttonDeleteText: 'I am super sure'
 }
 ```
+<br />
+![alt text](https://github.com/meberhardt2/just-a-modal/blob/main/screenshots/modal.gif?raw=true)
