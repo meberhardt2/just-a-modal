@@ -1,6 +1,6 @@
 {
   "name": "just-a-modal",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "private": false,
   "description": "just a modal. simple modal with no dependencies for confirmation and info modals",
   "main": "dist/just-a-modal.js",
