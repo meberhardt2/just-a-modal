@@ -66,6 +66,7 @@ with an actionID set:
 set actionID to 0 and modal will change from a delete confirmation to a info box:
 <br />
 ![alt text](https://github.com/meberhardt2/just-a-modal/blob/main/screenshots/info.png?raw=true)
+![alt text](https://github.com/meberhardt2/just-a-modal/blob/main/screenshots/modal.gif?raw=true)
 
 
 |modalInfo||
@@ -93,4 +94,3 @@ config:{
 }
 ```
 <br />
-![alt text](https://github.com/meberhardt2/just-a-modal/blob/main/screenshots/modal.gif?raw=true)
